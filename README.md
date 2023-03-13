@@ -10,9 +10,7 @@ project from Android Studio following the steps
 
 ## Screenshots
 
-<img src="screenshots/Screenshot_20230313_130438.png" alt="Screenshot">
-<img src="screenshots/Screenshot_20230313_130919.png" alt="Screenshot">
-
+<img src="screenshots/Screenshot_20230313_130919.png" alt="Screenshot" height="520px"  hspace="20"> <img src="screenshots/Screenshot_20230313_130438.png" alt="Screenshot" height="520px"> 
 ### Credits
 App Icon used was created by DinosoftLabs -  [Flaticon](https://www.flaticon.com/free-icons/kitchen)
 
