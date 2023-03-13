@@ -1,14 +1,15 @@
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
-    id "org.jetbrains.kotlin.plugin.serialization" version "1.8.20-RC"
+    id 'kotlinx-serialization'
+//    id "org.jetbrains.kotlin.plugin.serialization" version "1.8.20-RC"
 }
 
 android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.visionarymindszm.recipe"
+        applicationId "com.paul.recipe"
         minSdk 25
         targetSdk 33
         versionCode 1
